@@ -9,7 +9,7 @@ import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
 
-// ToDo
+// ToDo for wireless
 public class MainActivity extends AppCompatActivity {
 
     @Override
